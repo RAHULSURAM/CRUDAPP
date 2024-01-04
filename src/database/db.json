@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "Rahul Suram",
+      "username": "rahulsuram",
+      "email": "rahulsuram725@gmail.com",
+      "phone": "7032412120",
+      "id": 1
+    },
+    {
+      "name": "kdjbvk",
+      "username": "kjxfvbj",
+      "email": "gsg",
+      "phone": "awfa",
+      "id": 2
+    },
+    {
+      "name": "kdjbvk",
+      "username": "rambo",
+      "email": "gsg",
+      "phone": "awfa",
+      "id": 18
+    },
+    {
+      "name": "kdjbvk",
+      "username": "kjxfvbj",
+      "email": "gsg",
+      "phone": "awfa",
+      "id": 19
+    },
+    {
+      "name": "kdjbvk",
+      "username": "kjxfvbj",
+      "email": "gsg",
+      "phone": "123345",
+      "id": 20
+    },
+    {
+      "name": "kdjbvk",
+      "username": "kjxfvbj",
+      "email": "gsg",
+      "phone": "123345",
+      "id": 21
+    },
+    {
+      "name": "max verstappen",
+      "username": "maxx",
+      "email": "maxverstappen@gmail.com",
+      "phone": "874568734652",
+      "id": 22
+    },
+    {
+      "name": "zola",
+      "username": "zoola",
+      "email": "zola@gmail.com",
+      "phone": "3276r774",
+      "id": 23
+    },
+    {
+      "name": "eshu",
+      "username": "eshwari",
+      "email": "eshwari@gmail.com",
+      "phone": "873456874",
+      "id": 24
+    }
+  ]
+}
